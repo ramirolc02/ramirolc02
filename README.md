@@ -1,6 +1,6 @@
 # Hello, i'm Ramiro 
 
-'### 'About me:
+## About me:
 * Computer engineering student at Madrid Polytechnic University (UPM)
 * Web and Blockhain development enthusiast 
 
