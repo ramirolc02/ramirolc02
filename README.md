@@ -8,7 +8,7 @@
 ## Coding skills:
 
 * Java, C and Python (mainly used for CS assignments). Also R and Matlab. 
-* Javascript for web development. (react, node.js, MongoDB).
+* Javascript for web development(react, node.js, MongoDB).
 * Currently learning Elixir and Solidity.
 
 ## Some stats:
