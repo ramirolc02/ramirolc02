@@ -3,7 +3,7 @@
 ## About me:
 
 * Computer engineering student at Madrid Polytechnic University (UPM).
-* Web and Blockhain development enthusiast.
+* Web and Blockchain development enthusiast.
 
 ## Coding skills:
 
