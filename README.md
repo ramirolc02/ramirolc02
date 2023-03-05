@@ -9,7 +9,7 @@
 
 * Java, C and Python (mainly used for CS assignments). Also R and Matlab. 
 * Javascript for web development(MongoDB, Express, React and Node stack).
-* Currently learning Elixir and Solidity.
+* Currently learning Solidity, Typescript and Elixir.
 
 ## Some stats:
 
