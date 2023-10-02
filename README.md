@@ -4,6 +4,7 @@
 
 * Computer engineering student at Madrid Polytechnic University (UPM).
 * Web and Blockchain development enthusiast.
+* Telefonica Web3 and Metaverse Intern 
 
 ## Coding skills:
 
