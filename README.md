@@ -1,6 +1,6 @@
 # Welcome, i'm Ramiro!
 ## Web page:
-* https://ramirolopezcento.social
+* https://www.ramirolopezcento.social
 
 ## About me:
 
