@@ -1,20 +1,22 @@
 # Welcome, i'm Ramiro!
-## Web page:
-* https://www.ramirolopezcento.social
 
 ## About me:
 
-
-* Computer engineering student at Madrid Polytechnic University (UPM).
-* Web and Blockchain development enthusiast.
+* Computer engineer at Madrid Polytechnic University (UPM)
+* AI master student at UPM
 * Telefonica Web3 and Metaverse Intern 
-
+* Blockchain enthusiast.
+  
 ## Coding skills:
 
-* Java, C and Python (mainly used for CS assignments). Also R and Matlab. 
+* Java, C and Python (mainly used for CS assignments).
 * JavaScript for web development(MongoDB, Express, React and Node stack).
-* Explored Elixir.
-* Currently learning Solidity, NextJS and Django Python backend.
+* Explored Elixir and Golang.
+* Currently learning Python (AI & Django), Solidity, NextJS.
+ 
+## Blog (rarely upload):
+* https://www.ramirolopezcento.social
+
 
 ## Some stats:
 
