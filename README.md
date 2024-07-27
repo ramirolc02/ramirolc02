@@ -1,5 +1,3 @@
-# Welcome, i'm Ramiro!
-
 ## About me:
 
 * Computer engineer at Madrid Polytechnic University (UPM)
