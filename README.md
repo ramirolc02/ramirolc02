@@ -1,20 +1,17 @@
 ## About me:
 
 * Computer engineer at Madrid Polytechnic University (UPM)
-* AI master student at UPM
-* Telefonica Web3 and Metaverse Intern 
-* Blockchain enthusiast.
+* AI Master´s degree student at UPM
+* Blockchain enthusiast
   
 ## Coding skills:
-
 * Java, C and Python (mainly used for CS assignments).
-* JavaScript for web development(MongoDB, Express, React and Node stack).
+* JavaScript & TypeScript for web development(MongoDB, Express, React and Node stack || NextJS).
 * Explored Elixir and Golang.
-* Currently learning Python (AI & Django), Solidity, NextJS.
+* Currently learning Python (AI & Django) & Solidity.
  
 ## Blog (rarely upload):
 * https://www.ramirolopezcento.social
-
 
 ## Some stats:
 
