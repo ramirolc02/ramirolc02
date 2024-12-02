@@ -11,7 +11,7 @@
 * Currently learning Python (AI & Django) & Solidity.
  
 ## Blog (rarely upload):
-* https://www.ramirolopezcento.social
+* https://www.ramirolopezcento.live
 
 ## Some stats:
 
