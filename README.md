@@ -5,10 +5,11 @@
 * Blockchain enthusiast
   
 ## Coding skills:
-* Java, C and Python (mainly used for CS assignments).
+* Python (AI & Django)
+* Java & C  (mainly used for CS assignments).
 * JavaScript & TypeScript for web development(MongoDB, Express, React and Node stack || NextJS).
+* Solidity (Smart Contracts)
 * Explored Elixir and Golang.
-* Currently learning Python (AI & Django) & Solidity.
  
 ## Blog (rarely upload):
 * https://www.ramirolopezcento.live
