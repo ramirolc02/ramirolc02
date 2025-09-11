@@ -5,7 +5,7 @@
 * Blockchain enthusiast
   
 ## Coding skills:
-* Python (AI & Django)
+* Python (AI + backend frameworks (Django & FastAPI))
 * Java & C  (mainly used for CS assignments).
 * JavaScript & TypeScript for web development(MongoDB, Express, React and Node stack || NextJS).
 * Solidity (Smart Contracts)
