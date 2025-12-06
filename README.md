@@ -11,8 +11,8 @@
 * Solidity (Smart Contracts)
 * Explored Elixir and Golang.
  
-## Blog (rarely upload):
-* https://www.ramirolopezcento.live
+## Webpage :
+* [https://www.ramirolopezcento.live](https://ramirolopezcento.tech/)
 
 ## Some stats:
 
