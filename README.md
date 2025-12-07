@@ -1,7 +1,6 @@
 ## About me:
 
-* Computer engineer and AI Master´s degree at Madrid Polytechnic University (UPM)
-* Blockchain enthusiast
+* Computer engineer and AI Master´s degree graduate at Madrid Polytechnic University (UPM)
   
 ## Webpage :
 * [https://www.ramirolopezcento.live](https://ramirolopezcento.tech/)
