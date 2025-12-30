@@ -4,3 +4,6 @@
   
 ## Webpage :
 * [https://www.ramirolopezcento.tech](https://ramirolopezcento.tech/)
+
+## SegmentIt demo :
+* [https://www.segmentit.me/](https://segmentit.me/)
